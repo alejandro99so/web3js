@@ -18,7 +18,7 @@ Este plugin permite:
    record.
    
  - PubKey: Es el par de dirección pública x y asociada al ENS.
- - 
+ 
  - Resolver: Es la dirección del contrato resolver asociada al contrato 
    ENS, la cual tiene otros métodos para interactuar con el ENS.
 
